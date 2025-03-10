@@ -16,3 +16,4 @@
 4. [Worked Examples (Module 8)](./Resources/Module%208%20-%20Worked%20Examples.pdf)
 5. [Python – Worked Example](./Resources/Module%208%20-%20Pythong%20Strings%20Worked%20Example.md)
 5. [Mermaid Flowchart](./Resources/Module%2010%20-%20Mermaid%20Flowchart) | [Mermaid Live](https://mermaid.live/) | [Flowchart](./Resources/mermaid-diagram-2025-03-10-160457.png)
+6. [Lesson Plan](https://gist.github.com/aarij-anwer/1af1675515fc56a0d015f119048f184d)
