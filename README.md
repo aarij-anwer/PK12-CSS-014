@@ -6,6 +6,7 @@
 2. [Module 7: Active Learning Methods - Peer Instruction & Live Coding](./Module_7.md)
 3. [Module 8: Assessment, Evaluation, and Instructional Design in CS Education](./Module_8.md)
 4. [Module 9: Object-Oriented Programming in Grade 12 Computer Science](./Module_9.md)
+4. [Module 10: Algorithm Design and Analysis](./Module_10.md)
 
 # Resources
 
