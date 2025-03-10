@@ -1,0 +1,11 @@
+flowchart TB
+    A([Start]) --> B{Enter Income<br>or 'q' to quit}
+    B -- "q" --> C([Goodbye!<br>End Program])
+    B -- Else --> D(Try to Convert<br>Input to Float)
+    D --> E{Is Income > 0<br>and Conversion Valid?}
+    E -- No --> F([Invalid Input<br>Retry Prompt])
+    E -- Yes --> G([Iterate through<br>Tax Brackets])
+    G --> H[Check if Income in range<br>Compute tax and rate<br>Break out of loop]
+    H --> I([Print Tax Owing<br>and Effective Rate])
+    I --> B
+    

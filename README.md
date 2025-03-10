@@ -14,3 +14,5 @@
 2. [Computational Thinking (Module 4)](./Resources/Module%204%20-%20Computational%20Thinking.pdf)
 3. [Cognitive Load Theory (Module 8)](./Resources/Module%208%20-%20Coginitive%20Load%20Theory.pdf)
 4. [Worked Examples (Module 8)](./Resources/Module%208%20-%20Worked%20Examples.pdf)
+5. [Python – Worked Example](./Resources/Module%208%20-%20Pythong%20Strings%20Worked%20Example.md)
+5. [Mermaid Flowchart](./Resources/Module%2010%20-%20Mermaid%20Flowchart) | [Mermaid Live](https://mermaid.live/) | [Flowchart](./Resources/mermaid-diagram-2025-03-10-160457.png)
